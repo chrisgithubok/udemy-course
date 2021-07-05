@@ -1,2 +1,2 @@
 # udemy-course
-get certified
+List of exercises completed through udemy course
